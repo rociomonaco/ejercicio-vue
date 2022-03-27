@@ -1,4 +1,4 @@
-# Ejercicio de práctica vue js
+# Ejercicio de práctica con VueJs, PHP
 
 
 ## Carrito de comidas
